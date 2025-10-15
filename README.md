@@ -10,7 +10,7 @@
 ---
 
 ### 📈 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=andreykorchak&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=57uff3r&show_icons=true&theme=radical)
 
 ### 🧰 Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
